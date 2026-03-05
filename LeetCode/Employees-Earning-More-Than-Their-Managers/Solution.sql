@@ -1,4 +1,4 @@
-1# Write your MySQL query statement below
+1
 2select e.name as Employee 
 3from Employee e
 4join Employee m on e.managerId = m.id
